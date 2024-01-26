@@ -1,4 +1,4 @@
-mport gdown
+import gdown
 import os
 import torch.nn as nn
 import torch
